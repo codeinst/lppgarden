@@ -15,6 +15,10 @@ img {
   background: white url(../images/yudi-store-rendang-sehat.jpg);
 }
 
+.hero-about {
+  background: pink;
+}
+
 .hero > * {
   background: aqua;
 }

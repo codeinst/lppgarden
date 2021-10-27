@@ -1,0 +1,18 @@
+Junior Web Programmer
+
+Tools
+1. Install Visual Studio Code 
+   (kalau belum punya Text Editor)
+   Optional: notepad++
+2. Browser recommended:
+    a. Chrome
+    b. Firefox
+    c. Brave
+    d. Kalau tidak punya, 
+       pakai yang ada saja.
+3. TAG contoh: <html>, <h1>
+4. Attribute <h1 class="">, <img alt="">
+5. Bahan  bit.ly/jwpyogya
+6. Yudi Kolla 085157571154 Byu
+7. Padlet bit.ly/rendang2021
+8. github.com/codeinst/lppgarden

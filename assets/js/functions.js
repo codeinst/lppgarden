@@ -29,7 +29,7 @@ let cookie2 = "utomo 20211027";
 // alert(cookie);
 // console.log(cookie2);
 console.log("total barang " + total);
-document.write("Test dulu");
+// document.write("Test dulu");
 
 /* Conditional */
 let message;
