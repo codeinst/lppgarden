@@ -1,0 +1,68 @@
+body {
+  background-image: none;
+  /* border: 10px solid grey; */
+  /* color: white; */
+  /* color: green; */
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.hero {
+  background: white url(../images/yudi-store-rendang-sehat.jpg);
+}
+
+.hero > * {
+  background: aqua;
+}
+
+.cta1 {
+  background-color: red;
+  color: white;
+}
+
+.menu a.aktif {
+  background-color: red;
+  color: white;
+}
+
+h1 {
+  color: green;
+}
+
+p {
+  font-size: 12px;
+}
+
+.wow {
+  color: brown;
+  /* font-size: 200px; */
+}
+
+.hilite {
+  color: purple;
+}
+
+/* Start table  */
+@media screen and (max-width: 1023px) {
+  .hero {
+    background: red;
+  }
+
+  .wow {
+    color: pink;
+    /* font-size: 200px; */
+  }
+}
+/* End table  */
+
+/* Start Mobile  */
+@media screen and (max-width: 480px) {
+  .hero {
+    background: none;
+  }
+}
+/* End Mobile  */
