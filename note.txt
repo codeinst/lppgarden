@@ -10,7 +10,7 @@ Tools
     c. Brave
     d. Kalau tidak punya, 
        pakai yang ada saja.
-3. TAG contoh: <html>, <h1>
+3. TAG contoh: <html>, <h1>, <img>, <>
 4. Attribute <h1 class="">, <img alt="">
 5. Bahan  bit.ly/jwpyogya
 6. Yudi Kolla 085157571154 Byu
@@ -23,3 +23,5 @@ Tools
     packtpub.com/free-learning
 11. Visual Studio Code Online
     vscode.dev
+12. JavaScript reference
+    javascript.info 
