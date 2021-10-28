@@ -25,3 +25,5 @@ Tools
     vscode.dev
 12. JavaScript reference
     javascript.info 
+13. Mind Map
+    https://www.mindomo.com/mindmap/software-documentation-c20cc5d858fe47f49a7dbf83237164f1
